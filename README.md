@@ -11,9 +11,6 @@ A Django-based backend for a To-Do List application, developed as part of a codi
 - **RESTful APIs:** Built using Django Rest Framework (DRF).
 - **Admin Interface:** Comprehensive admin panel with validations and filters.
 
-## Demo
-
-
 
 ### Screenshots
 
@@ -94,7 +91,7 @@ This project includes GitHub Actions for:
 ## Deliverables
 
  **Hosted App Link:**
-- Available soon
+ (https://aglo-todo-lw73.vercel.app/todo/)
 
 
 ## Technology Stack
