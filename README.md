@@ -57,9 +57,6 @@ A Django-based backend for a To-Do List application, developed as part of a codi
    python manage.py runserver
    ```
 
-## API Documentation
-
-[Link to your hosted API documentation.]
 
 ## Running Tests
 
