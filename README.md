@@ -96,7 +96,8 @@ This project includes GitHub Actions for:
 
 ## Deliverables
 
-- **Hosted App Link:** 
+ **Hosted App Link:**
+- Available soon
 
 
 ## Technology Stack
